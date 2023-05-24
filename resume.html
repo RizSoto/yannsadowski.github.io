@@ -210,7 +210,7 @@ layout: home
             <p class="mb-0">
               <b>{{ entry.title }}</b>, {{ entry.awarder }}
             </p>
-            <p class="mb-0"><a href="{{ entry.link  }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
+            <p class="mb-0"><a href="{{ entry.link  }}">{{ entry.link | remove: "http://" | remove: "https://" }}</a></p>
           </div>
           <div class="col-3">
             <p class="m-0 text-end">
