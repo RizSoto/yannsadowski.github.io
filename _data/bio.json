@@ -6,38 +6,36 @@
     "email": "sadowski.yann@gmail.com",
     "phone": "06.30.09.53.49",
     "website": "https://yannsadowski.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I'm an engineering student in computer science with a preference for data, at CESI engineering school. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "64000", "city": "Pau", "countryCode": "FR", "region": "France" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "https://github.com/yannsadowski" },
+      { "network": "linkedin", "username": "yann SADOWSKI", "url": "https://www.linkedin.com/in/yann-sadowski-053308225/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "AI" },
+    { "name": "Aeronautics" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Trading stock" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Python", "Perl", "Apache Ant" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "CESI engineering school",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "engineering",
+      "startDate": "2022-10-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +43,25 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Safran Helicopter Engines",
+      "position": "Technical and functional consultant",
+      "website": "https://www.safran-group.com/fr/societes/safran-helicopter-engines",
+      "startDate": "2022-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Apprenticeship for Engineering School",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Java development"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Prof en Poche",
+      "position": "Web developer",
+      "website": "https://profenpoche.com/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
-      "summary": "",
+      "summary": "Validation Internship for DUT",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Web development"
       ]
     }
   ],
