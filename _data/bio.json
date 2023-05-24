@@ -9,7 +9,7 @@
     "summary": "I'm an engineering student in computer science with a preference for data, at CESI engineering school. I expect to graduate in Spring, 2025.",
     "location": { "address": "", "postalCode": "64000", "city": "Pau", "countryCode": "FR", "region": "France" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "https://github.com/yannsadowski" },
+      { "network": "github", "username": "yannsadowski", "url": "https://github.com/yannsadowski" },
       { "network": "linkedin", "username": "yann SADOWSKI", "url": "https://www.linkedin.com/in/yann-sadowski-053308225/" }
     ]
   },
@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
+      "keywords": ["Windows", "Git/GitHub","Docker" ]
     }
   ],
   "education": [
@@ -67,44 +67,29 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Association Twinkle Star For 64",
+      "website": "https://www.linkedin.com/company/association-twinkle-star-for-64/",
+      "position": "assistant",
+      "startDate": "2022-11-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Help when I can",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Learn about Deep Learning",
+      "date": "2023",
+      "awarder": "OpenClassRoom",
+      "link" : "https://openclassrooms.com/fr/course-certificates/7427597118"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+      "title": "Learn about Machine Learning",
+      "date": "2023",
+      "awarder": "OpenClassRoom",
+      "link" : "https://openclassrooms.com/fr/course-certificates/9315107669"
+    },
   ],
   "references": [
     {
