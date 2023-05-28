@@ -1,12 +1,13 @@
 ---
 layout: project
 type: project
-image: img/easysave/easysave-sqare.png
+image: img/easysave/easysave-sqare.jpg
 title: "Easysave"
 date: 2022
 published: true
 labels:
   - GitHub
+  - C++
 summary: "Backup software for businesses with file encryption capability."
 ---
 
