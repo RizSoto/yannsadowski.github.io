@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/easysave/easysave-square.png
 title: "Easysave"
 date: 2022
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "Backup software for businesses with file encryption capability."
 ---
 
-<img class="img-fluid" src="../img/easysave/easysave-header.png">
+<img class="img-fluid" src="../img/easysave/easysave-home-page.png">
 
 Backup software for businesses with file encryption capability.
 
@@ -60,4 +60,4 @@ Limiting duplicate lines of code as much as possible.
 
 <hr>
 
-Source: <a href="https://github.com/yannsadowski/cryptosoft"><i class="large github icon "></i>yannsadowski/cryptosoft</a>
+Source: <a href="https://github.com/yannsadowski/easysave"><i class="large github icon "></i>yannsadowski/easysave</a>
