@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/easysave/easysave-square.png
+image: img/easysave/easysave-sqare.png
 title: "Easysave"
 date: 2022
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "Backup software for businesses with file encryption capability."
 ---
 
-<img class="img" src="../img/easysave/easysave-sqare.png">
+<img class="img" src="../img/easysave/easysave-home-page.png">
 
 Backup software for businesses with file encryption capability.
 
