@@ -10,7 +10,7 @@ labels:
 summary: "Backup software for businesses with file encryption capability."
 ---
 
-<img class="img-fluid" src="../img/easysave/easysave-home-page.png">
+<img class="img" src="../img/easysave/easysave-sqare.png">
 
 Backup software for businesses with file encryption capability.
 
