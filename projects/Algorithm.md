@@ -13,8 +13,17 @@ summary: "Find road trips for the multiple Traveling Salesman Problem (mTSP)"
 ---
 
 <img class="img" src="../img/algo/glouton.gif">
+As part of this school project. We have a role -playing game as a project group
 
-This project aims to find road trips for the multiple Traveling Salesman Problem (mTSP).
+Introduction:
+
+This project emerged from the need to address the global concern for energy consumption and greenhouse gas emissions. The goal was to leverage technology to improve transportation methods, making them more economical and less polluting. As part of this initiative, the French Environment and Energy Management Agency (ADEME) launched a call for demonstrations of new mobility solutions.
+
+Project Description:
+
+Working in a team of four at CesiCDP, a leading company in the field of Intelligent Multimodal Mobility, we aimed to respond to ADEME's call by focusing on optimizing delivery tour planning. The challenge was to calculate a route that allows for connecting a subset of cities on a road network, then returning to the starting point, while minimizing total travel time and considering predicted traffic.
+
+We used methods from Operations Research to devise an optimized delivery tour. The problem's scope was flexible, allowing us to explore various additional constraints such as delivery time windows, truck capacities, specific item delivery requirements, and traffic variation over time. These constraints served to enhance the problem's realism and relevance.
 
 <hr>
 
