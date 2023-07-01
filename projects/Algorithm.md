@@ -12,7 +12,7 @@ labels:
 summary: "Find road trips for the multiple Traveling Salesman Problem (mTSP)"
 ---
 
-<img class="img" src="../img/algo/glouton.gif"><br>
+<p align="center"><img class="img" src="../img/algo/glouton.gif"></p><br>
 As part of this school project. We have a role -playing game as a project group
 
 Introduction:
