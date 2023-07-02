@@ -11,9 +11,10 @@ labels:
 - HTML
 - JavaScript
 summary: "A tool designed for simulating multiple-choice quizzes based on LinkedIn's skill assessment quizzes"
+---
 <p align="center"><img class="img" src="../img/simulateQCM/QCM.png"></p><br>
 As part of this project, we aimed to help users prepare for LinkedIn's skill assessments by providing a platform to practice these quizzes.
----
+
 Introduction:
 
 The simulateQCM project is a tool designed for simulating multiple-choice quizzes (MCQs) based on LinkedIn's skill assessment quizzes. The project directly utilizes quizzes from the linkedin-skill-assessments-quizzes repository as the source for the MCQ simulations.
