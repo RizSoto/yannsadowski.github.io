@@ -6,11 +6,10 @@ title: "simulateQCM"
 date: 2023
 published: true
 labels:
-
-GitHub
-Python
-HTML
-JavaScript
+- GitHub
+- Python
+- HTML
+- JavaScript
 summary: "A tool designed for simulating multiple-choice quizzes based on LinkedIn's skill assessment quizzes"
 <p align="center"><img class="img" src="../img/simulateQCM/QCM.png"></p><br>
 As part of this project, we aimed to help users prepare for LinkedIn's skill assessments by providing a platform to practice these quizzes.
