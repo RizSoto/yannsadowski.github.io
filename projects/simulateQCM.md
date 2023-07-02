@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/simulateQCM/QCM.png
+image: img/simulateQCM/qcmLogo.png
 title: "simulateQCM"
 date: 2023
 published: true
