@@ -1,0 +1,98 @@
+{
+  "basics": {
+    "name": "Yann SADOWSKI",
+    "label": "Student",
+    "picture": "https://avatars.githubusercontent.com/u/94612650?s=400&u=1386c506a06d280fd543d28c5006b853fdca4a61&v=4",
+    "email": "yann.sadowski.portfolio@gmail.com",
+    "website": "https://yannsadowski.github.io",
+    "summary": "I'm an engineering student in computer science with a preference for data, at CESI engineering school. I expect to graduate in Spring, 2025. <br><br>I have been interested in computer science since high school and have continued to cultivate this interest through my studies and personal projects. I have hobbies in video games, reading, and volleyball, which help to enhance my creativity and teamwork skills. I have the abilities to help you save money. I am seeking an overseas internship as part of my engineering education. <br><br>I am passionate about the potential of predictive models in various fields such as finance, health, and meteorology. My goal is to become a data scientist, to develop these algorithms and ensure that the world of AI remains as ethical as possible.",
+    "location": { "address": "", "postalCode": "64000", "city": "Pau", "countryCode": "FR", "region": "France" },
+    "profiles": [
+      { "network": "github", "username": "yannsadowski", "url": "https://github.com/yannsadowski" },
+      { "network": "linkedin", "username": "yann SADOWSKI", "url": "https://www.linkedin.com/in/yann-sadowski-053308225/" }
+    ]
+  },
+  "interests": [
+    { "name": "AI" },
+    { "name": "Aeronautics" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "Trading stock" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Python", "Perl", "Apache Ant" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": ["Windows", "Git/GitHub","Docker" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "CESI engineering school",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "engineering",
+      "startDate": "2022-10-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Safran Helicopter Engines",
+      "position": "Technical and functional consultant",
+      "website": "https://www.safran-group.com/fr/societes/safran-helicopter-engines",
+      "startDate": "2022-10-01",
+      "endDate": "Present",
+      "summary": "Apprenticeship for Engineering School",
+      "highlights": [
+        "Java development"
+      ]
+    },
+    {
+      "company": "Prof en Poche",
+      "position": "Web developer",
+      "website": "https://profenpoche.com/",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-15",
+      "summary": "Validation Internship for DUT",
+      "highlights": [
+        "Web development"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Association Twinkle Star For 64",
+      "website": "https://www.linkedin.com/company/association-twinkle-star-for-64/",
+      "position": "assistant",
+      "startDate": "2022-11-01",
+      "endDate": "Present",
+      "summary": "Help when I can",
+      "highlights": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Learn about Deep Learning",
+      "date": "2023",
+      "awarder": "OpenClassRoom",
+      "link" : "https://openclassrooms.com/fr/course-certificates/7427597118"
+    },
+    {
+      "title": "Learn about Machine Learning",
+      "date": "2023",
+      "awarder": "OpenClassRoom",
+      "link" : "https://openclassrooms.com/fr/course-certificates/9315107669"
+    },
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
